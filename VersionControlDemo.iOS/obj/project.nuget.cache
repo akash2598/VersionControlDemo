@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/K4y7QfFzt41sxH530nzNuGUDWVEsdg2hJeHIlLc3tYTVpASch2/6IYFMxvNXQP/RxB7Af8kB3o7PSs76QjiA==",
+  "success": true,
+  "projectFilePath": "/Users/webwerks1/Documents/Project/XamarinProject/Git Version Control/Src/VersionControlDemo/VersionControlDemo.iOS/VersionControlDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/webwerks1/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/webwerks1/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
